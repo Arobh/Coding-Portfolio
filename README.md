@@ -16,7 +16,7 @@ Each problem solution includes a detailed explanation of the problem, my approac
 
 Documentation files are provided within each folder to give additional context when necessary.
 # Badges:
-  LEETCODE:- https://leetcode.com/mgcu2021csit3004/
+  LEETCODE:-https://leetcode.com/Arobh/
   
   HACKERRANK:- https://www.hackerrank.com/profile/mgcu2021csit3004
 # How to Navigate:
