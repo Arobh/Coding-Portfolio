@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Insertion_Sort {
     void inserion(int[] arr,int n){
         for(int i=1;i<n;i++){
