@@ -1,12 +1,12 @@
 # Competitive-Coding-Portfolio
 # Overview:
-Welcome to my Competitive Coding Portfolio! This repository showcases my solutions to various algorithmic problems, data structures implementations, and coding challenges from platforms like  LeetCode, Codeforces, and others.
+Welcome to my Competitive Coding Portfolio! This repository showcases my solutions to various algorithmic problems, data structures implementations, and coding challenges from platforms like  LeetCode, GFG, and others.
 # Structure:
 Algorithms: Implementations of fundamental algorithms, such as sorting, searching, and graph algorithms.
 
 Data Structures: Implementations of common data structures like arrays, linked lists, trees, and more.
 
-Codeforces: Solutions to problems from Codeforces contests, organized by contest number.
+GFG: Solutions to problems from Geek For Geeks contests, organized by contest number.
 
 LeetCode: Solutions to problems from LeetCode, categorized by difficulty and topic.
 
@@ -19,6 +19,12 @@ Documentation files are provided within each folder to give additional context w
   LEETCODE:-https://leetcode.com/Arobh/
   
   HACKERRANK:- https://www.hackerrank.com/profile/mgcu2021csit3004
+
+  GFG :- https://auth.geeksforgeeks.org/user/arobh
+
+  CodeChef:- https://www.codechef.com/users/aarobhs087
+
+  CodingNinjas:- https://www.naukri.com/code360/profile/arobh
 # How to Navigate:
 Explore the folders corresponding to the topics or platforms you're interested in.
 
