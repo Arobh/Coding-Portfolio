@@ -27,3 +27,83 @@ Consider the array `[64, 34, 25, 12, 22, 11, 90]`.
 
 1. **First Pass**: Compare 64 and 34, swap them if necessary. Continue this process until the largest element (90) is moved to the end of the array.
 2. **Subsequent Passes**: Continue this process for the remaining elements until the entire array is sorted.
+
+## Code Examples
+
+### C
+
+```c
+void bubbleSort(int arr[], int n) {
+    int i, j, temp;
+    for (i = 0; i < n-1; i++) {
+        for (j = 0; j < n-i-1; j++) {
+            if (arr[j] > arr[j+1]) {
+                // Swap arr[j] and arr[j+1]
+                temp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = temp;
+            }
+        }
+    }
+}
+
+### C++
+
+```c
+void bubbleSort(int arr[], int n) {
+    for (int i = 0; i < n-1; i++) {
+        for (int j = 0; j < n-i-1; j++) {
+            if (arr[j] > arr[j+1]) {
+                // Swap arr[j] and arr[j+1]
+                int temp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = temp;
+            }
+        }
+    }
+}
+
+```
+
+### Java
+
+```c
+public static void bubbleSort(int[] arr) {
+    int n = arr.length;
+    for (int i = 0; i < n-1; i++) {
+        for (int j = 0; j < n-i-1; j++) {
+            if (arr[j] > arr[j+1]) {
+                // Swap arr[j] and arr[j+1]
+                int temp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = temp;
+            }
+        }
+    }
+}
+
+```
+
+### Python
+
+```c
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n-1):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                # Swap arr[j] and arr[j+1]
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+```
+
+# Advantages and Disadvantages
+### Advantages:
+
+1. Simple to understand and implement.
+2. No extra space needed (in-place sorting).
+
+### Disadvantages:
+
+1. Inefficient for large datasets due to its O(n^2) time complexity in the average and worst cases.
+2. Generally not suitable for large lists compared to more efficient algorithms like Quick Sort or Merge Sort.
