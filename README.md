@@ -1,6 +1,6 @@
 # Competitive-Coding-Portfolio
 # Overview:
-Welcome to my Competitive Coding Portfolio! This repository showcases my solutions to various algorithmic problems, data structures implementations, and coding challenges from platforms like  LeetCode, GFG, and others.
+Welcome to my Competitive Coding Portfolio! This repository showcases my solutions to various algorithmic problems, data structures implementations, and coding challenges from platform like  LeetCode...
 # Structure:
 Algorithms: Implementations of fundamental algorithms, such as sorting, searching, and graph algorithms.
 
