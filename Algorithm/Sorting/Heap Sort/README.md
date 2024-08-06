@@ -188,4 +188,3 @@ def heap_sort(arr):
 ## Disadvantages:
 1. Not Stable: Heap Sort does not preserve the order of equal elements.
 2. Complex Implementation: Slightly more complex to implement compared to other O(n log n) algorithms like Merge Sort or Quick Sort.
-3. Feel free to adjust or add any additional details as needed!
