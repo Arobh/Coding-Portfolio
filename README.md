@@ -6,25 +6,13 @@ Algorithms: Implementations of fundamental algorithms, such as sorting, searchin
 
 Data Structures: Implementations of common data structures like arrays, linked lists, trees, and more.
 
-GFG: Solutions to problems from Geek For Geeks contests, organized by contest number.
-
 LeetCode: Solutions to problems from LeetCode, categorized by difficulty and topic.
 
 
 # Project Details:
 Each problem solution includes a detailed explanation of the problem, my approach, and the code implementation.
 
-Documentation files are provided within each folder to give additional context when necessary.
-# Badges:
-  LEETCODE:-https://leetcode.com/Arobh/
-  
-  HACKERRANK:- https://www.hackerrank.com/profile/mgcu2021csit3004
 
-  GFG :- https://auth.geeksforgeeks.org/user/arobh
-
-  CodeChef:- https://www.codechef.com/users/aarobhs087
-
-  CodingNinjas:- https://www.naukri.com/code360/profile/arobh
 # How to Navigate:
 Explore the folders corresponding to the topics or platforms you're interested in.
 
