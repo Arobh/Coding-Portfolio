@@ -1,1 +1,1 @@
-# Coding Qyestions of Leetcode
+# Coding Questions of Leetcode
