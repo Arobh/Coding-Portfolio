@@ -1,7 +1,5 @@
 # Binary Search
 
-# Binary Search
-
 Binary Search is an efficient search algorithm that works on sorted arrays. It divides the search interval in half repeatedly to locate the target element.
 
 ## Algorithm Description
