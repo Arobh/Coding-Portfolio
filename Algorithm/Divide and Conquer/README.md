@@ -133,7 +133,7 @@ In this document, we present a comprehensive list of Divide and Conquer algorith
 - **Use Case:** String processing, text searching.
 - **Time Complexity:** \(O(n log n)\)
 
-##0 26. Suffix Tree Construction
+## 26. Suffix Tree Construction
 - **Description:** Build a suffix tree for a given string, which is a compressed trie of all suffixes.
 - **Use Case:** Efficient string searches, pattern matching.
 - **Time Complexity:** \(O(n)\)
