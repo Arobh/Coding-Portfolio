@@ -1,1 +1,0 @@
-# Mirror of a tree
